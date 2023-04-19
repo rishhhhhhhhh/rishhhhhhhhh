@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello 👋, I'm Risha</b></h1>
 Welcome to My GitHub Profile!
-<br>
+<br/>
 <div>
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" style="height:200px;align=right;width:300px; float: right;">
 
