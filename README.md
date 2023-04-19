@@ -4,7 +4,7 @@ Welcome to My GitHub Profile!
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" style="position:relative;height:200px;align=right;width:300px; float: right;
   margin: 0 0 10px 10px;">
 
-<br><p style="float:left">Hey there! I am a software developer with a passion for problem-solving and creating websites that simplify people's lives. I have come a long way on my coding journey, starting from the basics of programming and gradually learning a variety of technologies and tools. </p>
+<br><p >Hey there! I am a software developer with a passion for problem-solving and creating websites that simplify people's lives. I have come a long way on my coding journey, starting from the basics of programming and gradually learning a variety of technologies and tools. </p>
 </div>
 <br><b>Areas of Expertise</b> 
 <br>• Front-end Development: I'm skilled in HTML, CSS, and JavaScript, and I'm experienced in working with modern front-end libraries and frameworks like React. 
