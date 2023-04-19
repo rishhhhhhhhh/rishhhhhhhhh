@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hello 👋, I'm Risha</b></h1>
 Welcome to My GitHub Profile!
-<br/>
-<div>
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" style="height:200px;align=right;width:300px; float: right;">
 
-<br><p >Hey there! I am a software developer with a passion for problem-solving and creating websites that simplify people's lives. I have come a long way on my coding journey, starting from the basics of programming and gradually learning a variety of technologies and tools. </p>
-</div>
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" style="position:relative;height:200px;align=right;width:300px; float: right;
+  margin: 0 0 10px 10px;">
+
+<br><p style="float:">Hey there! I am a software developer with a passion for problem-solving and creating websites that simplify people's lives. I have come a long way on my coding journey, starting from the basics of programming and gradually learning a variety of technologies and tools. </p>
+
 <br><b>Areas of Expertise</b> 
 <br>• Front-end Development: I'm skilled in HTML, CSS, and JavaScript, and I'm experienced in working with modern front-end libraries and frameworks like React. 
 <br>• Problem-solving: I love to tackle complex problems and find innovative solutions using my strong analytical and critical thinking skills. Goals As a software developer, I am committed to continuous improvement and learning. 
