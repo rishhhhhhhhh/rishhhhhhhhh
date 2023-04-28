@@ -1,5 +1,5 @@
 <html>
-<h1 align="center"><b>Hello 👋, I'm Risha</b></h1>
+<h1 align="center"><b>Hi there, I'm Risha</b></h1>
 <p>Welcome to My GitHub Profile!<br/></p>
 
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" style="position:relative,height:200px,align=center,width:300px, float: right,
