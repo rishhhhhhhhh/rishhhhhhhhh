@@ -17,7 +17,7 @@
  <br>• Learn from feedback and constantly strive to write cleaner and more efficient code.</h3>
 
 
-🌱 I’m currently learning **Full-Stack Development**
+🌱 I’m currently learning **Full-Stack Development** and **Data Structures and Algorithm**
 
 
 
